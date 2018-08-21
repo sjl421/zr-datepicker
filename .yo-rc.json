@@ -1,0 +1,14 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "ZhongruiGroup",
+    "githubRepoName": "zr-datepicker",
+    "npmModuleName": "zr-datepicker",
+    "moduleGlobal": "zrDatepicker",
+    "ngModuleName": "ZrDatepickerModule",
+    "selectorPrefix": "directive",
+    "projectTitle": "zr datepicker",
+    "projectDescription": "This is a date picker directive.",
+    "authorName": "leihg",
+    "packageManager": "npm"
+  }
+}
